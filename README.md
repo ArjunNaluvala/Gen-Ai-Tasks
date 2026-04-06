@@ -21,7 +21,3 @@ The goal of these exercises was to strengthen Python basics and build logical th
 * Improved problem solving skills using Python
 * Better understanding of Python syntax and logic building
 * Practice with writing clean and structured code
-
-## Author
-
-Arjun Naluvala
